@@ -1,3 +1,4 @@
+s = input()
 ctr = 0
 temp = s[0]
 ans = s[0]
